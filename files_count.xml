@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <pagescount>
-	<html_total>32</html_total>
-	<html_done>8</html_done>
-	<images>16</images>
+	<html_total>51</html_total>
+	<html_done>51</html_done>
+	<images>118</images>
 	<script>2</script>
 	<css>2</css>
 	<pdf/>
@@ -17,7 +17,7 @@
 	<txt/>
 	<autocad/>
 	<fonts/>
-	<scraping_reload>1</scraping_reload>
+	<scraping_reload>3</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
 	<email>m.piesecki@gmail.com</email>
@@ -30,6 +30,6 @@
 	<front_page_code_date>20190122193249</front_page_code_date>
 	<total_urls_from_api/>
 	<max_reached_live>false</max_reached_live>
-	<scrape_other_captures>false</scrape_other_captures>
-	<total_size>816</total_size>
+	<scrape_other_captures>search_ended</scrape_other_captures>
+	<total_size>1696</total_size>
 </pagescount>
