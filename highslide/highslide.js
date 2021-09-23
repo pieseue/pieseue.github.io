@@ -2,12 +2,12 @@
 Name:    Highslide JS
 Version: 3.3.18 (Apr 30 2008)
 Config:  default
-Author:  Torstein Hï¿½nsi
-Support: https://vikjavev.no/highslide/forum
+Author:  Torstein Hønsi
+Support: http://vikjavev.no/highslide/forum
 
 Licence:
 Highslide JS is licensed under a Creative Commons Attribution-NonCommercial 2.5
-License (https://creativecommons.org/licenses/by-nc/2.5/).
+License (http://creativecommons.org/licenses/by-nc/2.5/).
 
 You are free:
 	* to copy, distribute, display, and perform the work
@@ -57,7 +57,7 @@ fullExpandPosition : 'bottom right',
 fullExpandOpacity : 1,
 showCredits : true, // you can set this to false if you want
 creditsText : '',
-creditsHref : 'https://vikjavev.no/highslide/',
+creditsHref : 'http://vikjavev.no/highslide/',
 creditsTitle : 'Go to the Highslide JS homepage',
 enableKeyListener : true,
 
@@ -549,7 +549,7 @@ genContainer : function () {
 		);
 		hs.garbageBin = hs.createElement('div', null, { display: 'none' }, hs.container);
 		
-		// https://www.robertpenner.com/easing/ 
+		// http://www.robertpenner.com/easing/ 
 		Math.linearTween = function (t, b, c, d) {
 			return c*t/d + b;
 		};
